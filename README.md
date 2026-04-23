@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I am Pang!</h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I am Yi Hahn!</h1>
 <p align="center">Passionate about data engineering, analytics, and machine learning.</p>
 
 <br />
