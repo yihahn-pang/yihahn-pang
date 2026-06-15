@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I am Yi Hahn!</h1>
-<p align="center">Passionate about data engineering, analytics, and machine learning.</p>
+<p align="center">I have experience working in data engineering, analytics, and machine learning. I aim to become the "day-tuh" guy, building scalable and structured data systems essential in an AI-driven world.</p>
 
 <br />
 
