@@ -2,7 +2,7 @@
 
 <p align="center">Incoming Data Analytics Engineer at Micron and CS Master's student at Georgia Tech.</p>
 
-<p align="center">I have experience working in data engineering, analytics, and machine learning. I aim to become the "day-tuh" guy, building scalable and structured data systems essential in an AI-driven world.</p>
+<p align="center">I specialize in data engineering, analytics, and machine learning. My career goal is to be the "day-tuh" guy who builds scalable, structured data systems for an AI-driven world.</p>
 
 <br />
 
