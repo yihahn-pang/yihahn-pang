@@ -1,6 +1,6 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> I am Yi Hahn!</h1>
 
-<p align="center">Incoming Data Analytics Engineer at Micron and CS Master's student at Georgia Tech.</p>
+<p align="center">Data Analytics Engineer at Micron and CS Master's student at Georgia Tech.</p>
 
 <p align="center">I specialize in data engineering, analytics, and machine learning. My career goal is to be the "day-tuh" guy who builds scalable, structured data systems for an AI-driven world.</p>
 
